@@ -1,0 +1,7 @@
+body {
+  background-color: pink;
+}
+div#main {
+  max-width: 700px;
+  margin: 0 auto;
+}
